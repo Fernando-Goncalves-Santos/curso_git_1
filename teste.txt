@@ -1,2 +1,5 @@
 Testando o repo
 Alterei um arquivo e salvei
+Alterando 1
+Alterando 2
+Alterando 3
